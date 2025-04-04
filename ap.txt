@@ -1,0 +1,1 @@
+Generate a complete Laravel CRUD application for a Blog model. Include migration, model, controller with all resource methods, web routes, and all Blade view files (index, create, edit, show). Use simple styling and include HTML forms for create and edit. make it simple no authenticate needed no validation needed. give a  create project to run project command also.
